@@ -1,0 +1,1 @@
+pub const CONTRACT_1_STATE: u32 = openbrush::storage_unique_key!(contract_1_state);
