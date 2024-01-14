@@ -1,7 +1,7 @@
 
 
 #[derive(Debug, Clone, Copy)]
-#[openbrush::storage_item(CONTRACT_1_STATE)]
+#[openbrush::storage_item()]
 pub struct Contract1Storage {
    
    pub  value: bool,
